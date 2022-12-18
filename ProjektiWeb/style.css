@@ -1,0 +1,191 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+#header1{
+    font-size: 51px;
+    padding-bottom: 10px;
+} #header3 {font-size: 18px;}
+
+body {
+    background-color: black;
+}
+
+span {
+    color: #E94560;
+}
+
+#navbar {
+    list-style-type: none;
+    padding-right: 40px;
+    background: linear-gradient(180deg, transparent 2%, black),
+    url("images/moonhighres.jpg");
+    display: flex;
+    align-items: center;
+    padding-bottom: 50px;
+}
+
+
+li{
+    padding-right: 40px;
+    color: white;  
+    size: 20px;
+}
+
+#logoli {
+    display: block;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    padding: 14px 40px;
+    margin-right: auto;
+}
+
+#logo {
+    height: 60px;
+}
+
+.container1 {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+} 
+
+#earthHigh {
+    height: 600px;
+}
+
+.con1con1 {
+    color: white;
+    padding-left: 50px;
+}
+
+.backroundStyle {
+    width: 100%;
+    mix-blend-mode: darken;
+}
+
+.container2 {
+    margin: auto;
+    width: 100%;
+    background:linear-gradient(0deg, transparent 20%, black), url(images/backgrounFiller.jpg);
+    background-size: 100%;
+    padding-top: 200px;
+    padding-bottom: 0;
+    text-align: center;
+}
+
+.container2 h2 {
+    font-size: 80px;
+    color: white;
+    font-weight: 100;
+    margin-bottom: 20px;
+    letter-spacing: -3px;
+}
+
+.holder {
+    display: flex;
+    background-color: #16213E;
+    justify-content: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 50px;
+}
+
+.holder img{
+    width: 220px;
+    margin-bottom: 30px;
+    border: #16213E 2px solid;
+    border-radius: 12px;
+    
+}
+
+.info-box {
+    width: 15%;
+    margin:50px 40px ;
+    text-align: center;
+    padding: 40px 30px;
+    border-radius: 24px;
+    background-color: #0F3460;
+    color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.arrow {
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 10px;
+} .right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+} .left {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+}
+.nxtpge {
+    background-color: transparent;
+    border: 0;
+}
+
+.container3 {
+    display: flex;
+    align-items: center;
+}
+
+.con3con2 img, .con3con3 img {
+    height: 500px;
+}
+
+.con3con1 {
+    color: white;
+    text-align: center;
+    margin: 40px;
+}
+
+#con3header1 {
+    font-size: 51px;
+    margin: 20px;
+} #con3header2 {
+    font-size: 18px;
+    margin: 20px;
+}
+
+.container4 {
+    background-color: white;
+    height: 400px;
+}
+
+.spaceStationBtn {
+    padding: 15px 40px;
+    margin-top: 25px;
+    background-color: #E94560;
+    border-radius: 12px;
+    color: white;
+    font-weight: bold;
+}
+
+
+
+/* .spaceStationBtn:hover {
+    background-color: transparent;
+    box-shadow: 8px 8px 8px 8px #E94560;
+    border: #E94560 4px solid;
+} */
+
+/* .textinphoto {
+
+    font-size: 125px;
+    text-shadow: 1px 0px 8px #000000;
+    
+
+    position: absolute;
+    top: -1%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+} */
+
+/* Stile te ndryshme per ta vendosur me vone, kodi i pare lart i komentuar */
+
